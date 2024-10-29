@@ -6,7 +6,7 @@ Come faccio a sapere se un numero è divisibile per?
 Abbiamo visto qualcosa di particolare che possiamo usare?
 
 Tasks:
-numeri da 1 a 100 ✔
+numeri da 1 a 100 
 multipli di 3 = "fizz"
 multipli di 5 = "buzz"
 multipli di entrambi = "fizzbuzz"
@@ -15,12 +15,12 @@ Implementation:
 for (let) - crea i numeri da 1 a 100
 
 if % " "- controlla quale numeri sono dividibili per 3 
-const - assegna "fizz" ai numeri dividibili per 3
+assegna "fizz" ai numeri dividibili per 3
 
 if % " "- controlla quale numeri sono dividibili per 5  
-const - assegna "buzz" ai numeri dividibili per 5
+assegna "buzz" ai numeri dividibili per 5
 
 if % || - controlla quale numeri sono dividibili per 3 e 5 
-const - assegna "buzzfizz" ai numeri dividibili per 3 e 5
+assegna "buzzfizz" ai numeri dividibili per 3 e 5
 
 console.log - stampa 
